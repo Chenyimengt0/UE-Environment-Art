@@ -1,0 +1,12 @@
+# Rainbot local configuration
+.rainbot/
+rainbot.jsonc
+
+# Unreal Engine generated data (including plugin build output)
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+
+# Local IDE state
+.vs/
